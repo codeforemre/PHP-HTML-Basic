@@ -1,1 +1,0 @@
-# PHP-TEMEL-META-KOD
